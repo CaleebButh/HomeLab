@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "b0949156f9f6b4e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "419a8a6aec23cfcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c82f435976db7331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wazuh/Wazuh SIEM setup..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wazuh SIEM setup."
+            }
+          },
+          {
+            "id": "6565c201f88f00fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wazuh/Attacking and alerting/Brute force SSH alert setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brute force SSH alert setup"
+            }
+          },
+          {
+            "id": "7c7eb5df6e36ce48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wazuh/Attacking and alerting/Brute force SSH alert setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brute force SSH alert setup"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dc2a2f3681ce8ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff5a8733519e61a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "822486cc4a98ac46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "52d2a6733df1c62a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "708ce57007856506",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e749742e45099e38",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc41840593b1ac55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff8389d3cbe7573b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "62170ed93f266b04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "58bdddf44ee725a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e9c50aab744c5fe8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fe485f39b955c456",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7c7eb5df6e36ce48",
+  "lastOpenFiles": [
+    "Wazuh/Attacking and alerting/Rule classifications.md",
+    "Wazuh/Attacking and alerting/Brute force SSH alert setup.md",
+    "Wazuh/Wazuh SIEM setup..md",
+    "Wazuh/images/Pasted image 20260420184655.png",
+    "Wazuh/images/Pasted image 20260420184411.png",
+    "Wazuh/images/Pasted image 20260420153422.png",
+    "Wazuh/images/Pasted image 20260420182058.png",
+    "Wazuh/images/Pasted image 20260420182634.png",
+    "Welcome.md",
+    "Wazuh/images/Pasted image 20260420182812.png",
+    "Wazuh/images/Pasted image 20260420183016.png",
+    "Pasted image 20260420182752.png",
+    "Pasted image 20260420181429.png",
+    "Wazuh/images/Pasted image 20260420181035.png",
+    "Wazuh/Attacking and alerting",
+    "Wazuh/images",
+    "Wazuh"
+  ]
+}
