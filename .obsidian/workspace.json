@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wazuh/Wazuh SIEM setup..md",
+                "file": "Wazuh/START HERE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wazuh SIEM setup."
+              "title": "START HERE"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wazuh/Attacking and alerting/Brute force SSH alert setup.md",
+                "file": "Wazuh/START HERE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brute force SSH alert setup"
+              "title": "START HERE"
             }
           }
         ],
@@ -211,9 +211,9 @@
   },
   "active": "7c7eb5df6e36ce48",
   "lastOpenFiles": [
-    "Wazuh/Attacking and alerting/Rule classifications.md",
     "Wazuh/Attacking and alerting/Brute force SSH alert setup.md",
-    "Wazuh/Wazuh SIEM setup..md",
+    "Wazuh/Attacking and alerting/Rule classifications.md",
+    "Wazuh/START HERE.md",
     "Wazuh/images/Pasted image 20260420184655.png",
     "Wazuh/images/Pasted image 20260420184411.png",
     "Wazuh/images/Pasted image 20260420153422.png",

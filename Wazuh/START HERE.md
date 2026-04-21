@@ -1,3 +1,4 @@
+**Wazuh SIEM Setup**
 To start out. My home lab consists of three VMs. A manager VM, which hosts my Wazuh-manager, an attacker machine (Kali Linux) and one Agent VM. The Wazuh agent and manager are both on Ubuntu 24.02.
 
 I set them up according to the documentation found here: [Docs](https://documentation.wazuh.com/current/quickstart.html)
