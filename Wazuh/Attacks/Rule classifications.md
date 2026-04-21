@@ -1,4 +1,4 @@
-See also:[[Brute force SSH alert setup]]
+See also:[[Brute force SSH]]
 
 The rule levels in Wazuh communicate both importance and details of the alert. 
 For example:

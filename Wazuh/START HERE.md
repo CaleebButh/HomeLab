@@ -11,4 +11,4 @@ Both agent/manager VMs are properly configured with the agent forwarding logs to
 ![[Pasted image 20260420153422.png|582]]
 Above is a screenshot of the dashboard showing one active agent.
 
-See next: [[Brute force SSH alert setup]]
+See next: [[Brute force SSH]]

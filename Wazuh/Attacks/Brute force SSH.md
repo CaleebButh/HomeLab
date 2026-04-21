@@ -1,6 +1,6 @@
 See also: [[START HERE]]
 
-To test detection capabilities in my Wazuh, I simulated an SSH brute force attack from my Kali Linux box against a Wazuh-agent target. The goal was to observe how Wazuh handles individual authentication failures versus correlated brute force behavior.
+To test detection capabilities in Wazuh, I simulated an SSH brute force attack from my Kali Linux box against a Wazuh-agent target. The goal was to observe how Wazuh handles individual authentication failures versus correlated brute force behavior.
 
 From the Kali VM, I used Hydra to perform repeated SSH login attempts against the target system:
 ![[Pasted image 20260420182058.png|697]]
