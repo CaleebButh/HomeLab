@@ -11,4 +11,15 @@ Both agent/manager VMs are properly configured with the agent forwarding logs to
 ![[Pasted image 20260420153422.png|582]]
 Above is a screenshot of the dashboard showing one active agent.
 
-See next: [[Brute force SSH]]
+
+By the end of this project I want  to have designed and operated a functional home SOC using Wazuh that can detect attacks, classify them and investigate them. 
+
+Overall objectives:
+
+1. build the environment
+2. Generate real attack data.
+3. Detect it with Wazuh
+4. Investigate it as an analyst.
+5. Improve detection over time.
+
+See also: [[Attacks!]], [[Defending and Alerting]]

@@ -15,4 +15,6 @@ At the start of the attack, Wazuh generated multiple Level 5 alerts, each corres
 ***Interpretation***
 This alert represents "Behavioral detection" Where many low level events correlate into a single attack pattern (Brute force attempt)
 
-See next: [[Rule classifications]]
+See next: [[Denial of service (DOS)]]
+
+See also: [[Rule classifications]]

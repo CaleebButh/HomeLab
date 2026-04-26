@@ -25,32 +25,14 @@
             "id": "6565c201f88f00fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wazuh/Attacking and alerting/Brute force SSH alert setup.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Brute force SSH alert setup"
+              "title": "New tab"
             }
           },
           {
-            "id": "7c7eb5df6e36ce48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wazuh/START HERE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "START HERE"
-            }
-          },
-          {
-            "id": "b003edb7c2a6455a",
+            "id": "5738d5f2dd89706e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,9 +44,75 @@
               "icon": "lucide-file",
               "title": "Brute force SSH"
             }
+          },
+          {
+            "id": "59486364e2ba5bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wazuh/Defending and Alerting/Detecting unauthorized processes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Detecting unauthorized processes"
+            }
+          },
+          {
+            "id": "852dd1c92e4784d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wazuh/Defending and Alerting/Defending and Alerting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Defending and Alerting"
+            }
+          },
+          {
+            "id": "d36de8f094cad718",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Wazuh/images/Pasted image 20260426130522.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260426130522"
+            }
+          },
+          {
+            "id": "d8d77719701223fd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Wazuh/images/Pasted image 20260422194330.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260422194330"
+            }
+          },
+          {
+            "id": "d01c869fe5b45600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wazuh/Attacks/Denial of service (DOS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Denial of service (DOS)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -223,24 +271,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "b003edb7c2a6455a",
+  "active": "d01c869fe5b45600",
   "lastOpenFiles": [
     "Wazuh/Attacks/Rule classifications.md",
-    "Wazuh/Attacks/Brute force SSH.md",
-    "Wazuh/Home SOC/Setting up for detection and response..md",
+    "Wazuh/Defending and Alerting/Detecting unauthorized processes.md",
+    "Wazuh/Defending and Alerting/Defending and Alerting.md",
     "Wazuh/START HERE.md",
-    "Wazuh/Home SOC",
+    "Wazuh/images/Pasted image 20260422194330.png",
+    "Wazuh/images/Pasted image 20260421185850.png",
+    "Wazuh/images/Pasted image 20260426130522.png",
+    "Wazuh/images/Pasted image 20260422194219.png",
+    "Wazuh/Attacks/Attacks!.md",
+    "Pasted image 20260426122947.png",
+    "Wazuh/Attacks/Brute force SSH.md",
+    "Wazuh/Attacks/Denial of service (DOS).md",
+    "Wazuh/images/Pasted image 20260421185659.png",
+    "Wazuh/images/Pasted image 20260421185847 1.png",
+    "Wazuh/images/Pasted image 20260421185847.png",
+    "Pasted image 20260421154448.png",
+    "Wazuh/Defending and Alerting",
     "Wazuh/images/Pasted image 20260420184655.png",
-    "Wazuh/images/Pasted image 20260420184411.png",
-    "Wazuh/images/Pasted image 20260420153422.png",
-    "Wazuh/images/Pasted image 20260420182058.png",
-    "Wazuh/images/Pasted image 20260420182634.png",
     "Welcome.md",
-    "Wazuh/images/Pasted image 20260420182812.png",
-    "Wazuh/images/Pasted image 20260420183016.png",
-    "Pasted image 20260420182752.png",
-    "Pasted image 20260420181429.png",
-    "Wazuh/images/Pasted image 20260420181035.png",
     "Wazuh/Attacks",
     "Wazuh/images",
     "Wazuh"
