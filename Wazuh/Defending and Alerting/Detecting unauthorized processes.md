@@ -1,3 +1,5 @@
+See also [[Defending and Alerting]]
+
 Wazuh has command monitoring capabilities, this means it can detect specific commands when ran on a specific endpoint. Allowing us to monitor specific command usage. 
 
 ![[Pasted image 20260422194219.png]]
@@ -10,18 +12,6 @@ We can take the output of processes gathered and check for matches, in this case
 ![[Pasted image 20260426130522.png]]
 Here we can see that wazuh created an alert using the custom rule to detect unauthorized process creation! 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+See next: [[File Integrity Monitoring]]
 
 [docs](https://documentation.wazuh.com/current/proof-of-concept-guide/detect-unauthorized-processes-netcat.html)

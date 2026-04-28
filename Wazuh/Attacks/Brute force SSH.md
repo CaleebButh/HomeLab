@@ -1,4 +1,4 @@
-See also: [[START HERE]]
+See also: [[Attacks!]]
 
 To test detection capabilities in Wazuh, I simulated an SSH brute force attack from my Kali Linux box against a Wazuh-agent target. The goal was to observe how Wazuh handles individual authentication failures versus correlated brute force behavior.
 
